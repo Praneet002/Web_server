@@ -28,8 +28,8 @@ content = """
 <title>My webserver</title>
 </head>
 <body>
-<h1>Name : S.ABHISHEK</h1>
-<h2>21004552 </h2>
+<h1>Name :Praneet.S </h1>
+<h2>21500603 </h2>
 <h3>Dept.:Artificial Intelligence and Data Science</h3>
 </body>
 </html>
