@@ -47,7 +47,7 @@ print("my webserver is running...")
 httpd.serve_forever()
 ~~~
 ## OUTPUT:
-![output](web server.png?raw=true)
+![output](https://github.com/Praneet002/Web_server/blob/main/web%20server.png)
 
 ## RESULT:
 Program Finished Successfully 
